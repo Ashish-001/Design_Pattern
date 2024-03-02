@@ -1,6 +1,4 @@
-package DesignPatterns;
-
-import java.lang.reflect.Constructor;
+package DesignPatterns.Singelton;
 
 public class callMethod{
     public static void call(){
